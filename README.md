@@ -19,4 +19,6 @@
 ![TradingView中的趋势波段指标展示](./indicator_trend.png)
 * TradingView中的双重趋势策略展示
 ![TradingView中的双重趋势策略展示](./indicator_double_st.png)
+* MT4中的趋势波段指标展示
+![TradingView中的双重趋势策略展示](./indicator_xauusd.png)
 
